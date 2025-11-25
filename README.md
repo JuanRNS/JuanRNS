@@ -15,7 +15,7 @@
   <img align="center" alt="Juan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Juan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Juan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Juan-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+  <img align="center" alt="Juan-Angular" height="40" width="40" src="https://angular.io/assets/images/logos/angular/angular.svg">
 </div>
 
 ### Redes para contato
